@@ -8,5 +8,5 @@ The report aims to highlight insights derived from the Stack Overflow Developer 
 
 Click on the link below to view or download the presentation.
 
-[]()
+[Dev Survey Presentation](https://github.com/FaiLuReH3Ro/dev-survey-presentation/blob/main/Developer%20Survey%20Presentation.pdf)
 
