@@ -22,11 +22,17 @@ Technology skills evolve quickly, making it difficult for companies to align tal
 * IT professional
 * Aspiring developers
 
+### Questions
+
+* Which programming languages are most in demand?
+* Which database technologies are currently most sought after
+* Which Integrated Development Environments (IDEs) are the most popular?
+
 ### Goals
 
 * Provide data-driven insights and predictive analysis into which programming languages, databases, and tools are most in demand
 * Help organizations focus on hiring, training, and investments in the right areas
-  
+
 ## Table of Contents
 
 * Executive Summary
